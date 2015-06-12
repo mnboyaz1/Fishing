@@ -1,0 +1,75 @@
+.nav a {
+  color: white;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 8px 8px;
+  text-transform: uppercase;
+  background-color: #66CCFF;
+}
+
+.nav li {
+  display: inline;
+  padding: 0px 8px;
+}
+
+.nav .container {
+    background-color: #66CCF;
+}
+
+.jumbotron {
+  background-image:url("http://www.leechlake.org/images/rotate/03.jpg");
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container a {
+  position: relative;
+  top:50px;
+  color: #FFFF00;
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+  text-shadow: 2px 2px #ff0000;
+}
+
+.jumbotron h1 {
+  color: #ffffcc;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 30px;
+  color: #FFFF00;
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+  text-shadow: 2px 2px #ff0000;
+}
+
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+.neighborhood-guides {
+    background-color: #efefef;
+    border-bottom: 1px solid #dbdbdb;
+}
+.neighborhood-guides h2 {
+    color: #393c3d;
+    font-size: 24px;
+}
+.neighborhood-guides p {
+    font-size: 15px;
+    margin-bottom: 13px;
+}
